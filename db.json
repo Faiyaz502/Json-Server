@@ -28,27 +28,7 @@
       "phone": "+1-555-0126",
       "role": "customer"
     },
-    {
-      "id": "5ec3",
-      "name": "fahim",
-      "email": "www.fahim123@gmail.com",
-      "phone": "56496465165",
-      "role": "customer"
-    },
-    {
-      "id": "9921",
-      "name": "fahim",
-      "email": "www.fahim123@gmail.com",
-      "phone": "56496465165",
-      "role": "restaurant_owner"
-    },
-    {
-      "id": "cc16",
-      "name": "Akib Faiyaz",
-      "email": "www.fahim.faizas@gmail.com",
-      "phone": "01977291166",
-      "role": "customer"
-    }
+    
   ],
   "restaurants": [
     {
@@ -85,14 +65,7 @@
       "description": "Fresh tomatoes, mozzarella, and basil",
       "image_url": "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg"
     },
-    {
-      "id": "2",
-      "restaurant_id": 1,
-      "name": "Pepperoni Pizza",
-      "price": 15.99,
-      "description": "Classic pepperoni with mozzarella",
-      "image_url": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg"
-    },
+ 
     {
       "id": "3",
       "restaurant_id": 2,
