@@ -28,20 +28,7 @@
       "phone": "+1-555-0126",
       "role": "customer"
     },
-    {
-      "id": "5ec3",
-      "name": "fahim",
-      "email": "www.fahim123@gmail.com",
-      "phone": "56496465165",
-      "role": "customer"
-    },
-    {
-      "id": "9921",
-      "name": "fahim",
-      "email": "www.fahim123@gmail.com",
-      "phone": "56496465165",
-      "role": "restaurant_owner"
-    },
+  
     {
       "id": "cc16",
       "name": "Akib Faiyaz",
@@ -117,14 +104,7 @@
       "description": "Beef Patty , Tomatoes ,Bun",
       "image_url": "https://plus.unsplash.com/premium_photo-1675252369719-dd52bc69c3df?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
-    {
-      "id": "df5a",
-      "restaurant_id": "1",
-      "name": "Cake",
-      "price": 17,
-      "description": "Strawberry,Cream",
-      "image_url": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?q=80&w=465&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-    }
+
   ],
   "orders": [
     {
